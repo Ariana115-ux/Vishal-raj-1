@@ -3,3 +3,5 @@
 - cpp
 - c#
 - js
+  # frontend skills
+  - html
